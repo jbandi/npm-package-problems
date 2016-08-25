@@ -12,7 +12,7 @@ Then react-router and history was added:
     npm i -S react-router@1.0.0-rc1
     npm i -S history@1.17.0   
 
-Then the router and history were used in the project in `App.js`.
+Then the router and history were used in the project in `index.js`.
 
 Finally react-router was upgraded:
 
